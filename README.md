@@ -7,4 +7,5 @@
 <li>section 4 - Randomisation And Python Lists</li>
 <li>section 5 - Loops</li>
 <li>section 7 - Hangman Project</li>
+<li>section 8 - Function Parameters</li>
 </ol>
