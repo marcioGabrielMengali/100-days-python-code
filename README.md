@@ -10,4 +10,5 @@
 <li>section 8 - Function Parameters</li>
 <li>section 9 - Dictionaries</li>
 <li>section 10 - Function With Outputs</li>
+<li>section 11 - BlackJack Game</li>
 </ol>
