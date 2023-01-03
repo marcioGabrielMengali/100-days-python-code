@@ -16,20 +16,7 @@ cards = {
     'K': 10,
 }
 
-user_cards = {
-
-}
-
-computer_cards = {
-
-}
-
 def select_card(player):
     card = random.choice(list(cards.keys()))
-    if player == 'user':
-        user_cards[card] = cards[card]
-        return user_cards
-    else:
-        computer_cards[card] = cards[card]
-        return computer_cards
+    player[card] = cards[card]
 
